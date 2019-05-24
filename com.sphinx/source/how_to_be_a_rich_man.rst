@@ -11,3 +11,6 @@
 ---------------------
 
 有个有钱的老婆。
+|web|
+
+.. |web| image:: https://avatar.csdn.net/C/3/E/3_csdnnews.jpg
